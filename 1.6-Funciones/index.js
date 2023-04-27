@@ -19,5 +19,3 @@ function yearsUntilRetirement(birthYear) {
     }
     return (`Te faltan ${yearsForRetirement} años para retirarte`)
 }
-
-
